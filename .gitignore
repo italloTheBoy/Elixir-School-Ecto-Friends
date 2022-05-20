@@ -25,4 +25,5 @@ friends-*.tar
 # Temporary files, for example, from tests.
 /tmp/
 
-/.env
+# Environment variables 
+/.env*
